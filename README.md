@@ -1,6 +1,8 @@
 # DIY-DirectDrive
 Software for creating a DirectDrive Wheelbase for simracing, using an ODrive Robotics board and an industrial servo motor.
 
+more info: www.jan-balke.com
+
 This Software is for creating a Direct Drive ForceFeedback
 Steering Wheel for Driving Simulations.
 
